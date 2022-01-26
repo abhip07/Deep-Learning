@@ -1,2 +1,2 @@
 # Deep-Learning
-This repository is the beginner level implementation of various deep learning models.
+This repository is the beginner level implementation of various deep learning network models.
